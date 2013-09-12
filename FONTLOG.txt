@@ -1,0 +1,23 @@
+2011 - Sebastien Sanfilippo
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+http://scripts.sil.org/OFL
+
+This file provides detailed information on the Reglo Font. This information should be distributed along with the Reglo Font and any derivative works.
+-----------
+CHANGELOG
+
+07/11/2009
+(Sebastien Sanfilippo) Reglo 1.0
+
+----------------------
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Sébastien Sanfilippo
+E: tinomatic (at)gmail (dot) com
+W: http://ospublish.constantvzw.org/foundry/
+D: Designer - original Roman glyphs
+
+
